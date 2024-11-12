@@ -1,0 +1,16 @@
+{
+  "name": "chargerwallet-bip39",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:iancoleman/bip39.git",
+  "author": "Franco Chen <chenhuifan.gg@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^2.2.4"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.3.3",
+    "@tailwindcss/typography": "^0.4.1"
+  },
+  "packageManager": "yarn@4.5.1+sha512.341db9396b6e289fecc30cd7ab3af65060e05ebff4b3b47547b278b9e67b08f485ecd8c79006b405446262142c7a38154445ef7f17c1d5d1de7d90bf9ce7054d"
+}
